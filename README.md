@@ -1,46 +1,67 @@
-## Hey 👋, I'm Mohanad Hasan!
-<a href='https://www.linkedin.com/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://twitter.com/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
+<h1 align="center">Hi 👋, I'm Mohanad Hasan</h1>
 
-<br/>
-<br/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&pause=1000&color=00FFF7&center=true&vCenter=true&width=650&lines=Frontend+Developer;React+%7C+Tailwind+%7C+JavaScript;Building+Futuristic+UI;Problem+Solver+%F0%9F%94%A5" />
+</p>
 
-I am a passionate **Frontend Developer** 💻 specialized in building modern, responsive, and user-friendly web applications.  
-I love working with UI/UX and creating smooth user experiences using modern technologies 🚀  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00fff7&style=flat-square" />
+</p>
 
-<br/>
-<br/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:00fff7&height=120&section=header"/>
+</p>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+---
 
-### 🧐 More About Me:
+<img align="right" alt="GIF" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="320"/>
 
-- 🔭 &nbsp; I’m currently working on improving my frontend skills  
-- 🌱 &nbsp; I’m currently learning advanced **React & performance optimization**  
-- 👨🏻‍💻 &nbsp; Practicing **Data Structures & Algorithms**  
-- 💬 &nbsp; Ask me about: React, JavaScript, Tailwind, UI/UX  
-- 📫 &nbsp; Reach me on LinkedIn  
-- ⚡ &nbsp; Fun fact: I enjoy problem solving and building cool interfaces  
+### 🧠 About Me
 
-<br>
+- 💻 Frontend Developer obsessed with clean UI  
+- ⚛️ Building apps using React + Tailwind  
+- 🚀 Love futuristic & animated interfaces  
+- 📚 Improving performance & advanced concepts  
+- 🧩 Strong in problem solving & algorithms  
 
-### 🔨 Languages and Tools:
+---
 
-<a href="#"><img align="left" alt="HTML" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a>
-<a href="#"><img align="left" alt="CSS" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></a>
-<a href="#"><img align="left" alt="JavaScript" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>
-<a href="#"><img align="left" alt="React" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></a>
-<a href="#"><img align="left" alt="Tailwind" height ="42px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></a>
-<a href="#"><img align="left" alt="Bootstrap" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></a>
-<a href="#"><img align="left" alt="C++" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></a>
-<a href="#"><img align="left" alt="Java" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></a>
+### ⚡ Tech Stack (Neon Style)
 
-<br>
-<br>
-<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,cpp,java&theme=dark" />
+</p>
 
-### 📊 Github Stats
+---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+### 📊 GitHub Stats
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00fff7&icon_color=00fff7" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00fff7" />
+</p>
+
+---
+
+### 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix&no-frame=true&margin-w=15&margin-h=15&column=6" />
+</p>
+
+---
+
+### 🚀 Projects (Coming Soon...)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&color=00FFF7&center=true&vCenter=true&width=500&lines=Projects+will+be+added+soon...;Stay+tuned+%F0%9F%94%A5" />
+</p>
+
+---
+
+### 🌌 Animated Footer
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff7,100:0f2027&height=120&section=footer"/>
+</p>
