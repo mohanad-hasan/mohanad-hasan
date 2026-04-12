@@ -47,7 +47,7 @@
 ### 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohanad-hasan&theme=matrix&no-frame=true&margin-w=15&margin-h=15&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mohanad-hasan&theme=algolia&no-frame=true&margin-w=10&margin-h=10" />
 </p>
 
 ---
