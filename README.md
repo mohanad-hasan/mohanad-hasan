@@ -37,9 +37,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00fff7&icon_color=00fff7" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohanad-hasan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00fff7&icon_color=00fff7" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00fff7" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohanad-hasan&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00fff7" />
 </p>
 
 ---
@@ -47,7 +47,7 @@
 ### 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix&no-frame=true&margin-w=15&margin-h=15&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mohanad-hasan&theme=matrix&no-frame=true&margin-w=15&margin-h=15&column=6" />
 </p>
 
 ---
